@@ -1,0 +1,2 @@
+print("RRRRRRR")
+print("AAAAAAA")
